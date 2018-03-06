@@ -8,4 +8,4 @@ the file is not here.
 
 references
 
-https://docs.aws.amazon.com/ko_kr/AmazonS3/latest/dev/HLuploadFileDotNet.html
+https://docs.aws.amazon.com/ko_kr/aws-mobile/latest/developerguide/add-aws-mobile-user-data-storage.html
